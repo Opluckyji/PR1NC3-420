@@ -1,5 +1,5 @@
-# Encoded By : YAMRAJ-CRIMINAL 
-# Encryption : py3 YAMRAJ-TOOL
+# Encoded By : PRINCE-CRIMINAL 
+# Encryption : py3 PRINCE-TOOL
 # Py3 Version : 6.2.6
 
 import base64
